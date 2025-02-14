@@ -31,7 +31,6 @@ This project demonstrates the implementation of **Logistic Regression** on the T
 | Cohen’s Kappa  | 0.75   |
 | MCC            | 0.76   |
 
-![Confusion Matrix](https://media.giphy.com/media/j5QcmXoFWmMebpSx0R/giphy.gif)
 
 ## 📌 Key Features
 ✅ Data Preprocessing & Feature Engineering  
@@ -41,7 +40,6 @@ This project demonstrates the implementation of **Logistic Regression** on the T
 ✅ Feature Scaling and Comparison  
 ✅ Visualizing Confusion Matrix & Precision-Recall Curve  
 
-![Precision-Recall Curve](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ## 📜 Theoretical Insights
 For an in-depth explanation of **Logistic Regression**, refer to the `theory.pdf` file in this repository.
